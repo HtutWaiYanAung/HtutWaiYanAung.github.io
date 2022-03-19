@@ -1,0 +1,228 @@
+body
+{
+  margin:0;
+}
+
+#header
+{
+  position:fixed;
+  width:100%;
+  background-color: rgb(168, 29, 71);
+  border:3px rgb(168, 29, 71) solid;
+  height: 60px;
+}
+#link
+  {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 700px;
+
+  }
+
+
+
+  .headerlinks
+  {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    border: 2px  rgb(168, 29, 71) solid;
+
+  }
+  .headerlinks
+  {
+    display:  inline-flex;
+    width: 90px;
+    height: 41px;
+    }
+
+  .headerlinks
+  {
+
+    padding-top:20px;
+    padding-left: 40px;
+  }
+  .headerlinks
+  {
+    margin-top: -22px;
+  }
+
+.headerlinks:hover
+{
+  background-color:  rgb(150, 29, 71)
+}
+a
+{
+  text-decoration: none;
+}
+
+#intro
+{
+    top: 0;
+    border:1px black solid;
+    height: 900px;
+    background-color: white;
+}
+ .name
+ {
+   font-weight: bold;
+   padding-top: 180px;
+   padding-left: 500px;
+   font-size: 50px;
+ }
+
+ #work
+ {
+   color:rgb(168, 29, 71);
+   padding-left: 550px;
+   font-size: 50px;
+ }
+#about
+{
+
+  border:2px blue solid;
+  width:auto;
+  height: 1300px;
+  background-color:cyan;
+}
+#pt
+{
+
+  font-weight: bold;
+  padding-top: 50px;
+  padding-left: 430px;
+  font-size: 40px;
+  width: 600px;
+  }
+
+#pt
+{
+  display: inline-flex;
+
+}
+#pro
+{
+width: 600px;
+}
+
+#img1
+{
+  margin-top: 50px;
+  margin-left: 500px;
+  border:2px black solid;
+  height: 450px;
+  width: 290px;
+  border-radius: 4px;
+
+}
+#imgp
+{
+  margin-top: -4px;
+  border: 2px black solid;
+  width: 390px;
+  font-size: 45px;
+ text-align: center;
+ background-color: skyblue;
+}
+
+#imgp:hover
+{
+  background-color: silver;
+}
+
+
+#footer
+{
+  border:2px silver solid;
+  height: 600px;
+  background-color:silver;
+}
+
+#Let
+{
+ padding-top: 50px;
+}
+#footer div
+{
+  text-align: center;
+;
+}
+
+#ft
+  {
+    font-weight: bold;
+    padding-top: 180px;;
+    font-size: 50px;
+  }
+  #coffee
+  {
+    color:rgb(168, 29, 71);
+    font-size: 30px;
+  }
+
+  #footerlinks
+  {
+    display: inline-flex;
+
+  }
+ #footerb
+ {
+   display: block;
+   margin-left: -50px;
+;
+ }
+  #fb
+  {
+    color: black;
+    margin-left: 20px;
+  }
+ #gh
+ {
+   color: black;
+   margin-left: 20px;
+ }
+ #twiter
+ {
+   color: black;
+   margin-left: 20px;
+ }
+
+#mail
+{
+  color: black;
+  margin-left: 20px;
+}
+
+#callme{
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+ #footerlinks
+ {
+  text-align: center;
+   border:3px black solid;
+   margin-left: 500px;
+
+
+ }
+
+#footerlinks h3:hover
+{
+  color:rgb(168, 29, 71);
+  padding-top: 20px;
+}
+
+
+
+  #email
+  {
+    color:purple;
+    text-align: center;e
+  }
+
+
+#line
+{
+  margin-top: -7px;
+}
